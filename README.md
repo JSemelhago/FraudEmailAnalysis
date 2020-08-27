@@ -1,5 +1,5 @@
 # FraudEmailAnalysis
-Using file and Natural Language Toolkit analysis, this project aims to analyze a fraudulent email corpus and produce
+Using file and Natural Language Toolkit analysis, this project's purpose is to analyze a fraudulent email corpus
 
 ## Data
 
