@@ -1,5 +1,5 @@
 # FraudEmailAnalysis
-Using file and Natural Language Toolkit analysis, this project's purpose is to analyze a fraudulent email corpus
+Using file and Natural Language Toolkit analysis, this project's purpose is to analyze a fraudulent email corpus. Furthermore, an LSTM was created to generate a preliminary neural net output using the corpus.
 
 ## Data
 
@@ -19,6 +19,7 @@ The email corpus can be found on [Kaggle](https://www.kaggle.com/rtatman/fraudul
 * Python - language
 * `conda` - package manager
 * `nltk` - natural language processing package for Python
+* `TensorFlow` and `Keras` - machine learning and deep learning API packages
 
 ## License
 
