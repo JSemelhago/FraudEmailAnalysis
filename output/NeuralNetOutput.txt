@@ -1,0 +1,7 @@
+Random Seed Output:
+
+"trusted partner shall take charge investment abroad plan settle want assist us investing money want "
+
+LSTM Output:
+
+"ount account account account account account account account account account account account account account account account account account account account account account account account account account account account account account account account account account account account account account account account account account account account account account account account account account account account account account account account account account account account account account account account account account account account account account account account account account account account account account account account account account account account account account account account account account account account account account account account account account account account account account account account account account account account account account account account account account account account account account account account account account account account account acc"
